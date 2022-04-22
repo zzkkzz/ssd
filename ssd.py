@@ -33,7 +33,7 @@ class SSD(object):
         #   如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
         #--------------------------------------------------------------------------#
         "model_path"        : 'model_data/ssd_weights.pth',
-        "classes_path"      : 'model_data/cell_classes.txt',
+        "classes_path"      : 'model_data/cells_classes.txt',
         #---------------------------------------------------------------------#
         #   用于预测的图像大小，和train时使用同一个即可
         #---------------------------------------------------------------------#
