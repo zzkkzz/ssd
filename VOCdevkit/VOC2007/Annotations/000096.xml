@@ -1,66 +1,79 @@
 <annotation>
 	<folder></folder>
-	<filename>data_465_jpg.rf.55a3ede0ed8d0f3f2bca3a43f71e67b4.jpg</filename>
-	<path>data_465_jpg.rf.55a3ede0ed8d0f3f2bca3a43f71e67b4.jpg</path>
+	<filename>000032_jpg.rf.fd34acefcd829eb3142741c4d1293752.jpg</filename>
+	<path>000032_jpg.rf.fd34acefcd829eb3142741c4d1293752.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>640</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>233</xmin>
-			<xmax>249</xmax>
-			<ymin>445</ymin>
-			<ymax>464</ymax>
+			<xmin>222</xmin>
+			<xmax>248</xmax>
+			<ymin>148</ymin>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>370</xmin>
-			<xmax>387</xmax>
-			<ymin>391</ymin>
-			<ymax>410</ymax>
+			<xmin>47</xmin>
+			<xmax>71</xmax>
+			<ymin>189</ymin>
+			<ymax>212</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>387</xmin>
-			<xmax>408</xmax>
-			<ymin>396</ymin>
-			<ymax>425</ymax>
+			<xmin>83</xmin>
+			<xmax>107</xmax>
+			<ymin>239</ymin>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>558</xmin>
-			<xmax>572</xmax>
-			<ymin>311</ymin>
-			<ymax>331</ymax>
+			<xmin>179</xmin>
+			<xmax>205</xmax>
+			<ymin>71</ymin>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cellbody</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>216</xmin>
+			<xmax>241</xmax>
+			<ymin>101</ymin>
+			<ymax>124</ymax>
 		</bndbox>
 	</object>
 </annotation>

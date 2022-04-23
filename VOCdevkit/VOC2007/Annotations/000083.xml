@@ -1,40 +1,27 @@
 <annotation>
 	<folder></folder>
-	<filename>data_410_jpg.rf.67ca4b9b6542da6863492f50ae49e3d4.jpg</filename>
-	<path>data_410_jpg.rf.67ca4b9b6542da6863492f50ae49e3d4.jpg</path>
+	<filename>000028_jpg.rf.7eb7c2044fed860fc5a10ca6e527c587.jpg</filename>
+	<path>000028_jpg.rf.7eb7c2044fed860fc5a10ca6e527c587.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>640</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>379</xmin>
-			<xmax>394</xmax>
-			<ymin>248</ymin>
-			<ymax>261</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>277</xmin>
-			<xmax>294</xmax>
-			<ymin>527</ymin>
-			<ymax>542</ymax>
+			<xmin>175</xmin>
+			<xmax>196</xmax>
+			<ymin>224</ymin>
+			<ymax>245</ymax>
 		</bndbox>
 	</object>
 </annotation>

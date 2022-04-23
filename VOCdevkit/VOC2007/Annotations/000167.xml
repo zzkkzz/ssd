@@ -1,66 +1,27 @@
 <annotation>
 	<folder></folder>
-	<filename>data_936_jpg.rf.613fa0d8fdfe1040866a59f36374c1f3.jpg</filename>
-	<path>data_936_jpg.rf.613fa0d8fdfe1040866a59f36374c1f3.jpg</path>
+	<filename>000056_jpg.rf.941309661a454f90b83d2cf2afb484f9.jpg</filename>
+	<path>000056_jpg.rf.941309661a454f90b83d2cf2afb484f9.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>640</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>228</xmin>
-			<xmax>245</xmax>
-			<ymin>149</ymin>
-			<ymax>166</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>232</xmin>
-			<xmax>249</xmax>
-			<ymin>413</ymin>
-			<ymax>428</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>258</xmin>
-			<xmax>273</xmax>
-			<ymin>560</ymin>
-			<ymax>571</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>250</xmin>
-			<xmax>265</xmax>
-			<ymin>91</ymin>
-			<ymax>108</ymax>
+			<xmin>114</xmin>
+			<xmax>139</xmax>
+			<ymin>59</ymin>
+			<ymax>82</ymax>
 		</bndbox>
 	</object>
 </annotation>

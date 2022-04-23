@@ -1,27 +1,27 @@
 <annotation>
 	<folder></folder>
-	<filename>data_878_jpg.rf.1aba0458b52c88e3537f91458fabed9a.jpg</filename>
-	<path>data_878_jpg.rf.1aba0458b52c88e3537f91458fabed9a.jpg</path>
+	<filename>000052_jpg.rf.3d2ff8575d52e4ba29a8b4e832958d3b.jpg</filename>
+	<path>000052_jpg.rf.3d2ff8575d52e4ba29a8b4e832958d3b.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>640</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>202</xmin>
-			<xmax>219</xmax>
-			<ymin>159</ymin>
-			<ymax>173</ymax>
+			<xmin>170</xmin>
+			<xmax>190</xmax>
+			<ymin>197</ymin>
+			<ymax>213</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,79 +1,53 @@
 <annotation>
 	<folder></folder>
-	<filename>data_336_jpg.rf.33db04015dc1e240c4fb75b649cc42e1.jpg</filename>
-	<path>data_336_jpg.rf.33db04015dc1e240c4fb75b649cc42e1.jpg</path>
+	<filename>000023_jpg.rf.ab9c5bf5b31dda327a08c846226352d5.jpg</filename>
+	<path>000023_jpg.rf.ab9c5bf5b31dda327a08c846226352d5.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>640</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>224</xmin>
-			<xmax>239</xmax>
-			<ymin>106</ymin>
-			<ymax>117</ymax>
+			<xmin>191</xmin>
+			<xmax>215</xmax>
+			<ymin>157</ymin>
+			<ymax>175</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>226</xmin>
-			<xmax>245</xmax>
-			<ymin>179</ymin>
-			<ymax>191</ymax>
+			<xmin>217</xmin>
+			<xmax>242</xmax>
+			<ymin>246</ymin>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>193</xmin>
-			<xmax>207</xmax>
-			<ymin>225</ymin>
-			<ymax>237</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>304</xmin>
-			<xmax>319</xmax>
-			<ymin>431</ymin>
-			<ymax>445</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>218</xmin>
-			<xmax>234</xmax>
-			<ymin>85</ymin>
-			<ymax>96</ymax>
+			<xmin>84</xmin>
+			<xmax>108</xmax>
+			<ymin>33</ymin>
+			<ymax>54</ymax>
 		</bndbox>
 	</object>
 </annotation>

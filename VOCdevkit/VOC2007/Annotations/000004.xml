@@ -1,118 +1,53 @@
 <annotation>
 	<folder></folder>
-	<filename>data_100_jpg.rf.08f19d7362f0dfc19e834fc7cac8a31e.jpg</filename>
-	<path>data_100_jpg.rf.08f19d7362f0dfc19e834fc7cac8a31e.jpg</path>
+	<filename>000002_jpg.rf.3bbad91a78af22bdb547dec4fd11e78d.jpg</filename>
+	<path>000002_jpg.rf.3bbad91a78af22bdb547dec4fd11e78d.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>640</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>489</xmin>
-			<xmax>504</xmax>
-			<ymin>330</ymin>
-			<ymax>353</ymax>
+			<xmin>170</xmin>
+			<xmax>192</xmax>
+			<ymin>187</ymin>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>485</xmin>
-			<xmax>497</xmax>
-			<ymin>378</ymin>
-			<ymax>399</ymax>
+			<xmin>162</xmin>
+			<xmax>188</xmax>
+			<ymin>161</ymin>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cells</name>
+		<name>cellbody</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>447</xmin>
-			<xmax>461</xmax>
-			<ymin>409</ymin>
-			<ymax>429</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>317</xmin>
-			<xmax>333</xmax>
-			<ymin>282</ymin>
-			<ymax>300</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>295</xmin>
-			<xmax>309</xmax>
-			<ymin>337</ymin>
-			<ymax>357</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>226</xmin>
-			<xmax>240</xmax>
-			<ymin>258</ymin>
-			<ymax>276</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>158</xmin>
-			<xmax>176</xmax>
-			<ymin>259</ymin>
-			<ymax>283</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cells</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>93</xmin>
-			<xmax>103</xmax>
-			<ymin>183</ymin>
-			<ymax>197</ymax>
+			<xmin>106</xmin>
+			<xmax>132</xmax>
+			<ymin>75</ymin>
+			<ymax>98</ymax>
 		</bndbox>
 	</object>
 </annotation>
