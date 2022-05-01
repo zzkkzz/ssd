@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>000043_jpg.rf.19022b079fbffb624f9051ffc7fda4e8.jpg</filename>
-	<path>000043_jpg.rf.19022b079fbffb624f9051ffc7fda4e8.jpg</path>
+	<filename>000043_jpg.rf.5acd4673d24f4b1f7c5cb0e9358ca207.jpg</filename>
+	<path>000043_jpg.rf.5acd4673d24f4b1f7c5cb0e9358ca207.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
@@ -18,10 +18,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>134</xmin>
-			<xmax>152</xmax>
-			<ymin>193</ymin>
-			<ymax>211</ymax>
+			<xmin>142</xmin>
+			<xmax>161</xmax>
+			<ymin>90</ymin>
+			<ymax>109</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,10 +31,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>175</xmin>
-			<xmax>193</xmax>
-			<ymin>270</ymin>
-			<ymax>284</ymax>
+			<xmin>90</xmin>
+			<xmax>108</xmax>
+			<ymin>25</ymin>
+			<ymax>40</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,10 +44,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>154</xmin>
-			<xmax>176</xmax>
-			<ymin>79</ymin>
-			<ymax>94</ymax>
+			<xmin>137</xmin>
+			<xmax>159</xmax>
+			<ymin>210</ymin>
+			<ymax>226</ymax>
 		</bndbox>
 	</object>
 </annotation>
