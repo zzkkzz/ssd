@@ -95,6 +95,9 @@ def fit_one_epoch(model_train, model, ssd_loss, loss_history, optimizer, epoch, 
 
     print('Finish Validation')
     loss_history.append_loss(epoch + 1, total_loss / epoch_step, val_loss / epoch_step_val)
+    with open("loss.txt","a") as f:
+        f.write(str(total_loss / epoch_step)+"\n")
+        f.close()
     print('Epoch:'+ str(epoch+1) + '/' + str(Epoch))
     print('Total Loss: %.3f || Val Loss: %.3f ' % (total_loss / epoch_step, val_loss / epoch_step_val))
     if (epoch + 1) % save_period == 0 or epoch + 1 == Epoch:
