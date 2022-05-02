@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000118_jpg.rf.ecee191c9ed708251c97524c7a59e408.jpg</filename>
+	<path>000118_jpg.rf.ecee191c9ed708251c97524c7a59e408.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cellbody</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>205</xmax>
+			<ymin>160</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
